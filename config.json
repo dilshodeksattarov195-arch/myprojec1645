@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondecrypt",
+        "uuid": 253330,
+        "checksum": "fnijmt"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
